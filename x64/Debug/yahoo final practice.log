@@ -1,0 +1,5 @@
+﻿  dang.cpp
+d:\university\cs 2410\yahoo final practice\yahoo final practice\dang.cpp(34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\university\cs 2410\yahoo final practice\yahoo final practice\dang.cpp(157): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\university\cs 2410\yahoo final practice\yahoo final practice\dang.cpp(88): warning C4101: 'length': unreferenced local variable
+  yahoo final practice.vcxproj -> D:\University\CS 2410\yahoo final practice\x64\Debug\yahoo final practice.exe
